@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "library_management": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\jonat\\source\\repos\\library_management\\"
+    }
+  }
+}
